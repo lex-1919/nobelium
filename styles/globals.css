@@ -94,6 +94,7 @@ body::-webkit-scrollbar-thumb {
 
 .sticky-nav-full .nav {
   @apply text-gray-600 dark:text-gray-300;
+  padding-top: 4px;
 }
 
 nav {
@@ -131,6 +132,7 @@ nav {
   .sticky-nav-full .header-name {
     opacity: 1;
     @apply dark:text-gray-300 text-gray-600;
+    padding-top: 4px  ;
   }
 }
 
