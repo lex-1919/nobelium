@@ -82,9 +82,9 @@ body::-webkit-scrollbar-thumb {
   position: unset;
 }
 
-/* .sticky-nav-full {
+.sticky-nav-full {
   @apply border-b border-opacity-50 border-gray-200 dark:border-gray-600 dark:border-opacity-50;
-} */
+}
 
 .header-name {
   display: none;
@@ -121,9 +121,9 @@ nav {
 }
 
 @media (min-width: 768px) {
-  /* .sticky-nav-full {
+  .sticky-nav-full {
     @apply max-w-full border-b border-opacity-50 border-gray-200 dark:border-gray-600 dark:border-opacity-50;
-  } */
+  }
   .header-name {
     display: block;
     opacity: 0;
