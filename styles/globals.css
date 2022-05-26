@@ -142,3 +142,7 @@ nav {
     @apply bg-day bg-opacity-90 dark:bg-night dark:bg-opacity-90;
   }
 }
+
+.sticky-nav-full{
+  border-bottom: none;
+}
