@@ -69,11 +69,11 @@ body::-webkit-scrollbar-thumb {
 }
 
 .sticky-nav {
-  background: rgba(255, 255, 255, 0.7);
+  /* background: rgba(255, 255, 255, 0.7); */
   position: sticky;
   z-index: 10;
   top: -1px;
-  backdrop-filter: blur(40px);
+  backdrop-filter: blur(80px);
   transition: all 0.5s cubic-bezier(0.4, 0, 0, 1);
   border-bottom-color: transparent;
 }
